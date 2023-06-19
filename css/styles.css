@@ -1,0 +1,30 @@
+#div0 {
+  padding-top: 5rem;
+  padding-left: 5rem;
+  padding-right: 5rem;
+}
+#div1 {
+  padding-left: 5rem;
+  padding-right: 5rem;
+}
+#div2 {
+  padding-left: 5rem;
+  padding-right: 5rem;
+}
+
+::-webkit-scrollbar {
+  width: 12px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #25282c;
+}
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #1890ff;
+}
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #0d68bd;
+}
